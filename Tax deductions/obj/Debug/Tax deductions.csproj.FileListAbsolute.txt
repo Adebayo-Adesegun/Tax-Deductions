@@ -1,0 +1,18 @@
+c:\users\daniel\documents\visual studio 2013\Projects\Tax deductions\Tax deductions\bin\Debug\Tax deductions.exe.config
+C:\Users\DANIEL\Documents\Visual Studio 2013\Projects\Tax deductions\Tax deductions\obj\Debug\Tax_deductions.Properties.Resources.resources
+C:\Users\DANIEL\Documents\Visual Studio 2013\Projects\Tax deductions\Tax deductions\obj\Debug\Tax deductions.csproj.GenerateResource.Cache
+C:\Users\DANIEL\Documents\Visual Studio 2013\Projects\Tax deductions\Tax deductions\bin\Debug\Tax deductions.exe
+C:\Users\DANIEL\Documents\Visual Studio 2013\Projects\Tax deductions\Tax deductions\bin\Debug\Tax deductions.pdb
+C:\Users\DANIEL\Documents\Visual Studio 2013\Projects\Tax deductions\Tax deductions\obj\Debug\Tax deductions.exe
+C:\Users\DANIEL\Documents\Visual Studio 2013\Projects\Tax deductions\Tax deductions\obj\Debug\Tax deductions.pdb
+C:\Users\DANIEL\Documents\Visual Studio 2013\Projects\Tax deductions\Tax deductions\obj\Debug\Tax_deductions.FrmtaxCalculator.resources
+C:\Users\DANIEL\documents\visual studio 2013\Projects\Tax deductions\Tax deductions\obj\Debug\Tax deductions.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2013\Projects\Tax deductions\Tax deductions\bin\Debug\Tax deductions.exe.config
+F:\Documents\Visual Studio 2013\Projects\Tax deductions\Tax deductions\obj\Debug\Tax deductions.exe
+F:\Documents\Visual Studio 2013\Projects\Tax deductions\Tax deductions\obj\Debug\Tax deductions.pdb
+F:\Documents\Visual Studio 2013\Projects\Tax deductions\Tax deductions\bin\Debug\Tax deductions.exe
+F:\Documents\Visual Studio 2013\Projects\Tax deductions\Tax deductions\bin\Debug\Tax deductions.pdb
+F:\Documents\Visual Studio 2013\Projects\Tax deductions\Tax deductions\obj\Debug\Tax deductions.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2013\Projects\Tax deductions\Tax deductions\obj\Debug\Tax_deductions.FrmtaxCalculator.resources
+F:\Documents\Visual Studio 2013\Projects\Tax deductions\Tax deductions\obj\Debug\Tax_deductions.Properties.Resources.resources
+F:\Documents\Visual Studio 2013\Projects\Tax deductions\Tax deductions\obj\Debug\Tax deductions.csproj.GenerateResource.Cache
